@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    margin: auto;
+    width: 100vh;
+    height: 100vh;
+    background-color: black;
+}
+.block{
+    margin-top: -.1975vh;
+    margin-bottom: -.1975vh;
+    width: 5vh;
+    height: 5vh;
+    display: inline-block;
+}
+.wall{
+    background-color: blue;
+}
+.ground{
+    background-color: black;
+}
+img{
+    margin-top: -.1975vh;
+    margin-bottom: -.1975vh;
+    width: 5vh;
+    height: 5vh;
+    display: inline-block;
+}
